@@ -1,3 +1,5 @@
+# Do not include build artifacts in the docker container.
+
 # Object files
 *.o
 *.ko
@@ -35,8 +37,3 @@
 
 # Binary stuff
 /bin/
-
-# Development stuff
-.direnv.master*
-.envrc
-default.nix
