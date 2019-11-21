@@ -30,3 +30,8 @@
 
 # Binary stuff
 /bin/
+
+# Development stuff
+.direnv.master*
+.envrc
+default.nix
