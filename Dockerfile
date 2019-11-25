@@ -1,6 +1,6 @@
-FROM debian:jessie
+FROM debian:stretch
 
-ARG version=1.0-1
+ARG version=2.0-1
 
 RUN apt-get update && apt-get install -qy build-essential dh-make libpcap-dev dh-systemd
 ADD . /rtpsniff

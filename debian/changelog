@@ -1,3 +1,9 @@
+rtpsniff (2.0-1) testing; urgency=low
+
+  * Upgrade to master
+
+ -- Jos van Bakel <jos@wearespindle.com>  Fri, 22 Nov 2019 16:46:00 +0000
+
 rtpsniff (1.0-1) unstable; urgency=low
 
   * Initial release
